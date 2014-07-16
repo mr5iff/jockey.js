@@ -134,9 +134,9 @@ var jockey = (function(){
 // console.log(jockey.dates("2014-06-22","2014-06-27"));
 
 // console.log(jockey.dates());
-jockey.lang("chi");
+jockey.lang("en");
 
-jockey.matches("2014-05-22","2014-06-27",function(d){
+jockey.matches("2009-09-01",Date.now(),function(d){
 	console.log(d);
 });
 

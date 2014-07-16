@@ -1,0 +1,22 @@
+{
+  "name": "jockeyJS",
+  "version": "0.0.1",
+  "author": "mr5iff <mr5iff@gmail.com>",
+  "main": "src/jockey.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mr5iff/jockey.js"
+  },
+  "keywords": [
+    "jockey",
+    "scrapper"
+  ],
+  "dependencies": {
+    "cheario": "^0.17.0",
+    "json3": "^3.3.2",
+    "moment": "^2.7.0"
+  },
+  "private": true,
+  "analyze": true,
+  "license": "MIT"
+}
