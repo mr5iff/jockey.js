@@ -1,5 +1,5 @@
 data/
-node_moduels/
+node_modules/
 download/
 
 src/*.json
