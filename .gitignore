@@ -1,3 +1,5 @@
 data/
 node_moduels/
 download/
+
+src/*.json
